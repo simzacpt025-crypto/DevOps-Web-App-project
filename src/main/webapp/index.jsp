@@ -6,8 +6,8 @@
 
 <p>This is my web application working!</p>
 
-<p>I am writing this line using nano instead of an IDE.</p>
+<p>I am writing this line using nano instead of an IDE..</p>
 
-</body>pom.xml
+</body>
 
 </html>
